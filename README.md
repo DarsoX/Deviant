@@ -4,5 +4,4 @@
 # Установка:
 ~~~python
 pip install dbustiker
-# profit
 ~~~
