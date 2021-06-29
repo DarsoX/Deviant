@@ -34,5 +34,6 @@ Token можно получить тут: https://vkhost.github.io/
 | stickers_info_get() | int(sticker_id) | Получит информацию о стикере и его наборе |
 | apps_get() | int(user_id) | Получит приложения, которые создал пользователь|
 | groups_get() | int(user_id) | Получит сообщества, которые создал пользователь|
+| balayandex_get() | str(text), init(style) | Балабоба от Yandex |
 
 Вопросы можете задавать в лс: https://vk.com/darsox
