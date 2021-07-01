@@ -35,5 +35,5 @@ Token можно получить тут: https://vkhost.github.io/
 | apps_get() | int(user_id) | Получит приложения, которые создал пользователь|
 | groups_get() | int(user_id) | Получит сообщества, которые создал пользователь|
 | balayandex_get() | str(text), init(style) | Балабоба от Yandex |
-| translator_emj() | str(text), ru,en | Переводит текст с русского, английського на смайлы |
+| translator_emj() | str(text), ru или en | Переводит текст с русского, английського на смайлы |
 Вопросы можете задавать в лс: https://vk.com/darsox
