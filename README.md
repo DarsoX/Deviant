@@ -8,7 +8,7 @@ pip install deviant
 
 >Deviant - Требуеют от вас "Токен" или же "Doken"
 
-* Детальная документация: https://github.com/DarsoX/Deviant.wiki.git
+* Детальная документация: https://github.com/DarsoX/Deviant/wiki/Documentation-Deviant
 
 ## Пример использования Doken:
 ~~~python
